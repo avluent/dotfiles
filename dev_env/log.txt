@@ -1,0 +1,223 @@
+Sat Jun 22 15:06:32 DST 2019 - ./dev_env.sh - Test
+Sat Jun 22 15:06:48 DST 2019 - ./dev_env.sh - Test
+Sat Jun 22 15:08:09 DST 2019 - ./dev_env.sh - Test
+Sat Jun 22 15:14:22 DST 2019 - ./dev_env.sh - Test
+Sat Jun 22 15:14:59 DST 2019 - ./dev_env.sh - Test
+Sat Jun 22 15:23:15 DST 2019 - ./dev_env.sh - Test
+Sat Jun 22 15:28:24 DST 2019 - ./dev_env.sh - Test
+Sat Jun 22 15:28:24 DST 2019 - ./dev_env.sh - Package manager is apt
+Sat Jun 22 15:29:33 DST 2019 - ./dev_env.sh - Test
+Sat Jun 22 15:29:33 DST 2019 - ./dev_env.sh - ./dev_env.sh
+Sat Jun 22 15:33:17 DST 2019 - Test - 
+Sat Jun 22 15:36:36 DST 2019 - Test - 
+Sat Jun 22 15:36:36 DST 2019 - ./dev_env.sh - Package manager is apt
+Sat Jun 22 15:38:43 DST 2019 - Test - 
+Sat Jun 22 15:38:43 DST 2019 - discoverPackageManager - Package manager is apt
+Sat Jun 22 15:45:50 DST 2019 - Test - 
+Sat Jun 22 15:45:50 DST 2019 - discoverPackageManager - Package manager is apt
+Sat Jun 22 15:46:44 DST 2019 - Test - 
+Sat Jun 22 15:46:44 DST 2019 - discoverPackageManager - Package manager is apt
+Sat Jun 22 15:48:26 DST 2019 - Test - 
+Sat Jun 22 15:48:26 DST 2019 - discoverPackageManager - Package manager is apt
+Sat Jun 22 15:50:38 DST 2019 - Test - 
+Sat Jun 22 15:50:38 DST 2019 - discoverPackageManager - Package manager is apt
+Sun Jun 23 11:41:07 DST 2019 - Test - 
+Sun Jun 23 11:41:07 DST 2019 - discoverPackageManager - Package manager is apt
+Sun Jun 23 11:52:47 DST 2019 - discoverPackageManager - Package manager is apt
+Sun Jun 23 11:53:42 DST 2019 - discoverPackageManager - Package manager is apt
+Sun Jun 23 11:58:26 DST 2019 - discoverPackageManager - Package manager is apt
+Sun Jun 23 11:59:36 DST 2019 - discoverPackageManager - Package manager is apt
+Sun Jun 23 12:02:23 DST 2019 - discoverPackageManager - Package manager is apt
+Sun Jun 23 12:04:13 DST 2019 - discoverPackageManager - Package manager is apt
+Sun Jun 23 12:54:25 DST 2019 - discoverPackageManager - Package manager is apt
+Sun Jun 23 12:55:50 DST 2019 - discoverPackageManager - Package manager is apt
+Sun Jun 23 12:56:12 DST 2019 - discoverPackageManager - Package manager is apt
+Sun Jun 23 13:05:01 DST 2019 - discoverPackageManager - Package manager is apt
+Sun Jun 23 13:06:19 DST 2019 - discoverPackageManager - Package manager is apt
+Sun Jun 23 13:11:53 DST 2019 - discoverPackageManager - Package manager is apt
+Sun Jun 23 13:12:18 DST 2019 - discoverPackageManager - Package manager is apt
+Sun Jun 23 13:13:05 DST 2019 - discoverPackageManager - Package manager is apt
+Sun Jun 23 13:14:22 DST 2019 - discoverPackageManager - Package manager is apt
+Sun Jun 23 13:17:17 DST 2019 - discoverPackageManager - Package manager is apt
+Sun Jun 23 13:19:15 DST 2019 - discoverPackageManager - Package manager is apt
+Sun Jun 23 13:20:23 DST 2019 - discoverPackageManager - Package manager is apt
+Sun Jun 23 13:22:23 DST 2019 - discoverPackageManager - Package manager is apt
+Sun Jun 23 13:22:53 DST 2019 - discoverPackageManager - Package manager is apt
+Sun Jun 23 13:22:58 DST 2019 - log - discoverPackageManager
+Sun Jun 23 13:24:43 DST 2019 - discoverPackageManager - Package manager is apt
+Sun Jun 23 13:25:08 DST 2019 - discoverPackageManager - Package manager is apt
+Sun Jun 23 13:25:13 DST 2019 - log - discoverPackageManager
+Mon Jun 24 11:06:50 DST 2019 - discoverPackageManager - Package manager is apt
+Mon Jun 24 11:07:09 DST 2019 - installComponents - tmux installed with apt
+Mon Jun 24 11:07:17 DST 2019 - installComponents - vim installed with apt
+Mon Jun 24 11:08:12 DST 2019 - discoverPackageManager - Package manager is apt
+Mon Jun 24 11:08:19 DST 2019 - installComponents - tmux installed with apt
+Mon Jun 24 11:08:19 DST 2019 - installComponents - vim installed with apt
+Mon Jun 24 11:08:20 DST 2019 - installComponents - vifm installed with apt
+Mon Jun 24 11:08:20 DST 2019 - installComponents - java installed with apt
+Mon Jun 24 11:08:20 DST 2019 - installComponents - kotlin;sdkman installed with sdkman
+Mon Jun 24 11:08:20 DST 2019 - installComponents - kscript;sdkman installed with sdkman
+Mon Jun 24 11:08:20 DST 2019 - installComponents - gradle;sdkman installed with sdkman
+Mon Jun 24 11:08:20 DST 2019 - installComponents - git installed with apt
+Mon Jun 24 11:08:20 DST 2019 - installComponents - docker installed with apt
+Mon Jun 24 11:08:21 DST 2019 - installComponents - ssh installed with apt
+Mon Jun 24 11:08:40 DST 2019 - discoverPackageManager - Package manager is apt
+Mon Jun 24 11:08:49 DST 2019 - installComponents - tmux installed with apt
+Mon Jun 24 11:08:58 DST 2019 - installComponents - vim installed with apt
+Mon Jun 24 11:08:59 DST 2019 - installComponents - vifm installed with apt
+Mon Jun 24 11:09:00 DST 2019 - installComponents - java installed with apt
+Mon Jun 24 11:09:00 DST 2019 - installComponents - kotlin;sdkman installed with sdkman
+Mon Jun 24 11:09:00 DST 2019 - installComponents - kscript;sdkman installed with sdkman
+Mon Jun 24 11:09:00 DST 2019 - installComponents - gradle;sdkman installed with sdkman
+Mon Jun 24 11:09:01 DST 2019 - installComponents - git installed with apt
+Mon Jun 24 11:09:09 DST 2019 - installComponents - docker installed with apt
+Mon Jun 24 11:09:14 DST 2019 - installComponents - ssh installed with apt
+Mon Jun 24 11:13:55 DST 2019 - discoverPackageManager - Package manager is apt
+Mon Jun 24 11:14:03 DST 2019 - installComponents - tmux is already installed. Nothing to do.
+Mon Jun 24 11:14:03 DST 2019 - installComponents - vim is already installed. Nothing to do.
+Mon Jun 24 11:14:03 DST 2019 - installComponents - vifm is already installed. Nothing to do.
+Mon Jun 24 11:14:03 DST 2019 - installComponents - java is already installed. Nothing to do.
+Mon Jun 24 11:14:03 DST 2019 - installComponents - kotlin;sdkman installed with sdkman
+Mon Jun 24 11:14:03 DST 2019 - installComponents - kscript;sdkman installed with sdkman
+Mon Jun 24 11:14:03 DST 2019 - installComponents - gradle;sdkman installed with sdkman
+Mon Jun 24 11:14:03 DST 2019 - installComponents - git is already installed. Nothing to do.
+Mon Jun 24 11:14:03 DST 2019 - installComponents - docker is already installed. Nothing to do.
+Mon Jun 24 11:14:03 DST 2019 - installComponents - ssh is already installed. Nothing to do.
+Thu Jun 27 19:23:26 DST 2019 - discoverPackageManager - Package manager is apt
+Thu Jun 27 19:25:29 DST 2019 - discoverPackageManager - Package manager is apt
+Thu Jun 27 19:28:06 DST 2019 - discoverPackageManager - Package manager is apt
+Thu Jun 27 19:31:50 DST 2019 - discoverPackageManager - Package manager is apt
+Thu Jun 27 19:33:45 DST 2019 - discoverPackageManager - Package manager is apt
+Thu Jun 27 19:35:12 DST 2019 - discoverPackageManager - Package manager is apt
+Thu Jun 27 19:36:23 DST 2019 - discoverPackageManager - Package manager is apt
+Thu Jun 27 19:37:24 DST 2019 - discoverPackageManager - Package manager is apt
+Thu Jun 27 19:37:55 DST 2019 - discoverPackageManager - Package manager is apt
+Thu Jun 27 19:37:55 DST 2019 - installComponents - tmux is already installed. Nothing to do.
+Thu Jun 27 19:37:55 DST 2019 - installComponents - vim is already installed. Nothing to do.
+Thu Jun 27 19:37:55 DST 2019 - installComponents - vifm is already installed. Nothing to do.
+Thu Jun 27 19:37:55 DST 2019 - installComponents - java is already installed. Nothing to do.
+Thu Jun 27 19:37:55 DST 2019 - installComponents - git is already installed. Nothing to do.
+Thu Jun 27 19:37:56 DST 2019 - installComponents - docker is already installed. Nothing to do.
+Thu Jun 27 19:37:56 DST 2019 - installComponents - ssh is already installed. Nothing to do.
+Thu Jun 27 19:42:12 DST 2019 - discoverPackageManager - Package manager is apt
+Thu Jun 27 19:42:12 DST 2019 - installComponents - tmux is already installed. Nothing to do.
+Thu Jun 27 19:42:12 DST 2019 - installComponents - vim is already installed. Nothing to do.
+Thu Jun 27 19:42:12 DST 2019 - installComponents - vifm is already installed. Nothing to do.
+Thu Jun 27 19:42:12 DST 2019 - installComponents - java is already installed. Nothing to do.
+Thu Jun 27 19:42:12 DST 2019 - installComponents - git is already installed. Nothing to do.
+Thu Jun 27 19:42:12 DST 2019 - installComponents - docker is already installed. Nothing to do.
+Thu Jun 27 19:42:12 DST 2019 - installComponents - ssh is already installed. Nothing to do.
+Thu Jun 27 19:50:30 DST 2019 - discoverPackageManager - Package manager is apt
+Thu Jun 27 19:50:30 DST 2019 - installComponents - tmux is already installed. Nothing to do.
+Thu Jun 27 19:50:30 DST 2019 - installComponents - vim is already installed. Nothing to do.
+Thu Jun 27 19:50:30 DST 2019 - installComponents - vifm is already installed. Nothing to do.
+Thu Jun 27 19:50:30 DST 2019 - installComponents - java is already installed. Nothing to do.
+Thu Jun 27 19:50:30 DST 2019 - installComponents - git is already installed. Nothing to do.
+Thu Jun 27 19:50:30 DST 2019 - installComponents - docker is already installed. Nothing to do.
+Thu Jun 27 19:50:30 DST 2019 - installComponents - ssh is already installed. Nothing to do.
+Thu Jun 27 19:51:22 DST 2019 - discoverPackageManager - Package manager is apt
+Thu Jun 27 19:51:22 DST 2019 - installComponents - tmux is already installed. Nothing to do.
+Thu Jun 27 19:51:22 DST 2019 - installComponents - vim is already installed. Nothing to do.
+Thu Jun 27 19:51:22 DST 2019 - installComponents - vifm is already installed. Nothing to do.
+Thu Jun 27 19:51:22 DST 2019 - installComponents - java is already installed. Nothing to do.
+Thu Jun 27 19:51:22 DST 2019 - installComponents - git is already installed. Nothing to do.
+Thu Jun 27 19:51:22 DST 2019 - installComponents - docker is already installed. Nothing to do.
+Thu Jun 27 19:51:22 DST 2019 - installComponents - ssh is already installed. Nothing to do.
+Thu Jun 27 19:55:28 DST 2019 - discoverPackageManager - Package manager is apt
+Thu Jun 27 19:55:28 DST 2019 - installComponents - tmux is already installed. Nothing to do.
+Thu Jun 27 19:55:28 DST 2019 - installComponents - vim is already installed. Nothing to do.
+Thu Jun 27 19:55:28 DST 2019 - installComponents - vifm is already installed. Nothing to do.
+Thu Jun 27 19:55:28 DST 2019 - installComponents - java is already installed. Nothing to do.
+Thu Jun 27 19:55:29 DST 2019 - installComponents - git is already installed. Nothing to do.
+Thu Jun 27 19:55:29 DST 2019 - installComponents - docker is already installed. Nothing to do.
+Thu Jun 27 19:55:29 DST 2019 - installComponents - ssh is already installed. Nothing to do.
+Thu Jun 27 19:57:06 DST 2019 - discoverPackageManager - Package manager is apt
+Thu Jun 27 19:57:06 DST 2019 - installComponents - tmux is already installed. Nothing to do.
+Thu Jun 27 19:57:06 DST 2019 - installComponents - vim is already installed. Nothing to do.
+Thu Jun 27 19:57:06 DST 2019 - installComponents - vifm is already installed. Nothing to do.
+Thu Jun 27 19:57:06 DST 2019 - installComponents - java is already installed. Nothing to do.
+Thu Jun 27 19:57:07 DST 2019 - installComponents - git is already installed. Nothing to do.
+Thu Jun 27 19:57:07 DST 2019 - installComponents - docker is already installed. Nothing to do.
+Thu Jun 27 19:57:07 DST 2019 - installComponents - ssh is already installed. Nothing to do.
+Thu Jun 27 19:59:18 DST 2019 - discoverPackageManager - Package manager is apt
+Thu Jun 27 19:59:18 DST 2019 - installComponents - tmux is already installed. Nothing to do.
+Thu Jun 27 19:59:18 DST 2019 - installComponents - vim is already installed. Nothing to do.
+Thu Jun 27 19:59:18 DST 2019 - installComponents - vifm is already installed. Nothing to do.
+Thu Jun 27 19:59:18 DST 2019 - installComponents - java is already installed. Nothing to do.
+Thu Jun 27 19:59:18 DST 2019 - installComponents - git is already installed. Nothing to do.
+Thu Jun 27 19:59:18 DST 2019 - installComponents - docker is already installed. Nothing to do.
+Thu Jun 27 19:59:18 DST 2019 - installComponents - ssh is already installed. Nothing to do.
+Thu Jun 27 20:01:58 DST 2019 - discoverPackageManager - Package manager is apt
+Thu Jun 27 20:01:58 DST 2019 - installComponents - tmux is already installed. Nothing to do.
+Thu Jun 27 20:01:58 DST 2019 - installComponents - vim is already installed. Nothing to do.
+Thu Jun 27 20:01:58 DST 2019 - installComponents - vifm is already installed. Nothing to do.
+Thu Jun 27 20:01:58 DST 2019 - installComponents - java is already installed. Nothing to do.
+Thu Jun 27 20:01:58 DST 2019 - installComponents - git is already installed. Nothing to do.
+Thu Jun 27 20:01:58 DST 2019 - installComponents - docker is already installed. Nothing to do.
+Thu Jun 27 20:01:58 DST 2019 - installComponents - ssh is already installed. Nothing to do.
+Thu Jun 27 20:06:26 DST 2019 - discoverPackageManager - Package manager is apt
+Thu Jun 27 20:06:26 DST 2019 - installComponents - tmux is already installed. Nothing to do.
+Thu Jun 27 20:06:26 DST 2019 - installComponents - vim is already installed. Nothing to do.
+Thu Jun 27 20:06:26 DST 2019 - installComponents - vifm is already installed. Nothing to do.
+Thu Jun 27 20:06:26 DST 2019 - installComponents - java is already installed. Nothing to do.
+Thu Jun 27 20:06:27 DST 2019 - installComponents - git is already installed. Nothing to do.
+Thu Jun 27 20:06:27 DST 2019 - installComponents - docker is already installed. Nothing to do.
+Thu Jun 27 20:06:27 DST 2019 - installComponents - ssh is already installed. Nothing to do.
+Thu Jun 27 20:32:10 DST 2019 - discoverPackageManager - Package manager is apt
+Thu Jun 27 20:32:10 DST 2019 - discoverPackageManager - SDKMAN! is already installed
+Thu Jun 27 20:32:10 DST 2019 - installComponents - tmux is already installed. Nothing to do.
+Thu Jun 27 20:32:10 DST 2019 - installComponents - vim is already installed. Nothing to do.
+Thu Jun 27 20:32:10 DST 2019 - installComponents - vifm is already installed. Nothing to do.
+Thu Jun 27 20:32:10 DST 2019 - installComponents - java is already installed. Nothing to do.
+Thu Jun 27 20:32:10 DST 2019 - installComponents - git is already installed. Nothing to do.
+Thu Jun 27 20:32:10 DST 2019 - installComponents - docker is already installed. Nothing to do.
+Thu Jun 27 20:32:10 DST 2019 - installComponents - ssh is already installed. Nothing to do.
+Thu Jun 27 20:32:41 DST 2019 - discoverPackageManager - Package manager is apt
+Thu Jun 27 20:32:41 DST 2019 - discoverPackageManager - SDKMAN! is already installed
+Thu Jun 27 20:32:41 DST 2019 - installComponents - tmux is already installed. Nothing to do.
+Thu Jun 27 20:32:41 DST 2019 - installComponents - vim is already installed. Nothing to do.
+Thu Jun 27 20:32:41 DST 2019 - installComponents - vifm is already installed. Nothing to do.
+Thu Jun 27 20:32:41 DST 2019 - installComponents - java is already installed. Nothing to do.
+Thu Jun 27 20:32:41 DST 2019 - installComponents - git is already installed. Nothing to do.
+Thu Jun 27 20:32:41 DST 2019 - installComponents - docker is already installed. Nothing to do.
+Thu Jun 27 20:32:41 DST 2019 - installComponents - ssh is already installed. Nothing to do.
+Thu Jun 27 22:05:06 DST 2019 - discoverPackageManager - Package manager is apt
+Thu Jun 27 22:05:06 DST 2019 - discoverPackageManager - SDKMAN! is already installed
+Thu Jun 27 22:05:39 DST 2019 - discoverPackageManager - Package manager is apt
+Thu Jun 27 22:05:39 DST 2019 - discoverPackageManager - SDKMAN! is already installed
+Thu Jun 27 22:06:18 DST 2019 - discoverPackageManager - Package manager is apt
+Thu Jun 27 22:06:18 DST 2019 - discoverPackageManager - SDKMAN! is already installed
+Thu Jun 27 22:06:19 DST 2019 - installComponents - tmux is already installed. Nothing to do.
+Thu Jun 27 22:06:19 DST 2019 - installComponents - vim is already installed. Nothing to do.
+Thu Jun 27 22:06:19 DST 2019 - installComponents - vifm is already installed. Nothing to do.
+Thu Jun 27 22:06:19 DST 2019 - installComponents - java is already installed. Nothing to do.
+Thu Jun 27 22:06:19 DST 2019 - installComponents - kotlin is already installed. Nothing to do.
+Thu Jun 27 22:06:19 DST 2019 - installComponents - kscript is already installed. Nothing to do.
+Thu Jun 27 22:06:19 DST 2019 - installComponents - gradle is already installed. Nothing to do.
+Thu Jun 27 22:06:19 DST 2019 - installComponents - git is already installed. Nothing to do.
+Thu Jun 27 22:06:19 DST 2019 - installComponents - docker is already installed. Nothing to do.
+Thu Jun 27 22:06:19 DST 2019 - installComponents - ssh is already installed. Nothing to do.
+Thu Jun 27 22:22:09 DST 2019 - discoverPackageManager - Package manager is apt
+Thu Jun 27 22:22:09 DST 2019 - discoverPackageManager - SDKMAN! is already installed
+Thu Jun 27 22:22:09 DST 2019 - installComponents - tmux is already installed. Nothing to do.
+Thu Jun 27 22:22:09 DST 2019 - installComponents - vim is already installed. Nothing to do.
+Thu Jun 27 22:22:09 DST 2019 - installComponents - vifm is already installed. Nothing to do.
+Thu Jun 27 22:22:09 DST 2019 - installComponents - java is already installed. Nothing to do.
+Thu Jun 27 22:22:09 DST 2019 - installComponents - kotlin is already installed. Nothing to do.
+Thu Jun 27 22:22:09 DST 2019 - installComponents - kscript is already installed. Nothing to do.
+Thu Jun 27 22:22:09 DST 2019 - installComponents - gradle is already installed. Nothing to do.
+Thu Jun 27 22:22:10 DST 2019 - installComponents - git is already installed. Nothing to do.
+Thu Jun 27 22:22:10 DST 2019 - installComponents - docker is already installed. Nothing to do.
+Thu Jun 27 22:22:10 DST 2019 - installComponents - ssh is already installed. Nothing to do.
+Thu Jun 27 22:23:11 DST 2019 - discoverPackageManager - Package manager is apt
+Thu Jun 27 22:23:11 DST 2019 - discoverPackageManager - SDKMAN! is already installed
+Thu Jun 27 22:23:12 DST 2019 - installComponents - tmux is already installed. Nothing to do.
+Thu Jun 27 22:23:12 DST 2019 - installComponents - vim is already installed. Nothing to do.
+Thu Jun 27 22:23:12 DST 2019 - installComponents - vifm is already installed. Nothing to do.
+Thu Jun 27 22:23:12 DST 2019 - installComponents - java is already installed. Nothing to do.
+Thu Jun 27 22:23:12 DST 2019 - installComponents - kotlin is already installed. Nothing to do.
+Thu Jun 27 22:23:12 DST 2019 - installComponents - kscript is already installed. Nothing to do.
+Thu Jun 27 22:23:12 DST 2019 - installComponents - gradle is already installed. Nothing to do.
+Thu Jun 27 22:23:12 DST 2019 - installComponents - git is already installed. Nothing to do.
+Thu Jun 27 22:23:12 DST 2019 - installComponents - docker is already installed. Nothing to do.
+Thu Jun 27 22:23:12 DST 2019 - installComponents - ssh is already installed. Nothing to do.
