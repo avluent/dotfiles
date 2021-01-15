@@ -8,7 +8,6 @@ if [[ "$(command -v tmux)" ]] && \
 	[[ ! "$(tmux ls)" =~ ":" ]]
 then
 	# setup new tmux session
-	echo "new session..."
 	tmux new-session -s main -n main
 
 # if installed
@@ -18,7 +17,6 @@ elif [[ "$(command -v tmux)" ]] && \
 	[[ "$(tmux ls)" =~ ":" ]] && \
 		[[ -z "$(printenv | grep TMUX)" ]]
 then
-	echo "attach to existing session..."
 	tmux a
 
 # if not installed
